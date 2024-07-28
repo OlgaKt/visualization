@@ -26,9 +26,7 @@ This pie chart does not provide sufficient context or labels. It’s unclear wha
       ```
     - How could this data visualization have been improved?  
       ```
-      For the population chart, given the number of segments and the difficulty in distinguishing between them, I believe a bar chart would be more appropriate. 
-Also, clear legend would provide the necessary context and make the visualization more informative. This would help viewers better understand the message of the visualization.
-Using a more distinct color palette with contrasting colors for each segment would improve readability and help viewers easily differentiate between countries.
+      For the population chart, given the number of segments and the difficulty in distinguishing between them, I believe a bar chart would be more appropriate. Also, clear legend would provide the necessary context and make the visualization more informative. This would help viewers better understand the message of the visualization. Using a more distinct color palette with contrasting colors for each segment would improve readability and help viewers easily differentiate between countries.
 
 
 
