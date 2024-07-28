@@ -10,8 +10,13 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good: https://public.tableau.com/app/profile/lomska/viz/WhatWillWeCookFrom100most-usedingredientsintheworldstopcuisines/Tree
 
+I think this visualisation is good because it’s aesthetic, substantive, and perceptual. The visualization shows 100 most used ingredients of 6 world cuisines. It is pleasing to look at and the data is clearly presented and undersndable. It is also interactive and allows users to hover over specific data points for more detailed information, which enhances user engagement.
+
+      Bad: https://www.researchgate.net/figure/Pie-Chart-of-Population-According-to-pie-chart-the-most-populated-country-is-China_fig1_336422501
+
+This pie chart does not provide sufficient context or labels. It’s unclear what countries some of the segments represent, as the chart lacks a clear legend, making it difficult to understand. E.g. Austria and Brazil are marked by the same colour, so it’s not clear which segment corresponds to each country. Also, there is inconsistency in data description. The description below the chart says that 64% of world population resides in China, and the country with lowest population value is Brunei Dar but the number is not presented in percentage of the total world population. 
 
 
 
@@ -21,7 +26,10 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      For the population chart, given the number of segments and the difficulty in distinguishing between them, I believe a bar chart would be more appropriate. 
+Also, clear legend would provide the necessary context and make the visualization more informative. This would help viewers better understand the message of the visualization.
+Using a more distinct color palette with contrasting colors for each segment would improve readability and help viewers easily differentiate between countries.
+
 
 
 
