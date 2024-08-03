@@ -7,14 +7,18 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+       https://public.tableau.com/app/profile/lomska/viz/WhatWillWeCookFrom100most-usedingredientsintheworldstopcuisines/Tree
+        Accessibility: The visualization uses different colours to indicate ingredients, so it might not be accessible to those with color vision deficiencies. Small fonts and lack of sufficient contrast between text and background can hinder readability for those with visual impairments. Also, interactive features might not be accessible.
+        Reproducibility: The author includes the data source but we don’t know how the data was processed and what methods of analysis were used.
+        I believe this visualisation is equitable. It presents 100 ingredients each from six world cuisines.
 
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+        We can make all text more readable with higher contrast against the background. We can use a bigger font size so it can be easily read by individuals with low vision. Descriptive alt text can be added to key visual elements. It would also be nice to provide a summary of the information displayed and instructions on how to interact with it for screen reader users.
+        To improve reproducibility, a link to the dataset and visualisation methodology (data processing, the tools used, and any specific settings or configurations applied) need to be added.
 
 
 
