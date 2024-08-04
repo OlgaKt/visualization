@@ -22,6 +22,8 @@ Python and Tableau
     > 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     To ensure that my data visualization is reproducible, I included the data source link and added code to the document.
+  > Data source for the Crime Rates visualization: https://open.toronto.ca/dataset/neighbourhood-crime-rates/
+  > Data source for the Ontario Top Baby Names visualization: https://data.ontario.ca/dataset/ontario-top-baby-names-female
     > 
     > How did you ensure that your data visualization is accessible?  
     I avoided bright colours and included text summary.
