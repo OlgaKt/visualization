@@ -9,19 +9,26 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 Python and Tableau
+    > 
     > Who is your intended audience? 
     People who live in Ontario.
+    > 
     > What information or message are you trying to convey with your visualization? 
     Visualization #1: Number of incidents by crime type in Toronto in 2023.
     Visualization #2: Number of top female baby names registered in Ontario from 1913 to 2022.
+    > 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
     I tried to consider all principals.
+    > 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     To ensure that my data visualization is reproducible, I included the data source link and added code to the document.
+    > 
     > How did you ensure that your data visualization is accessible?  
     I avoided bright colours and included text summary.
+    > 
     > Who are the individuals and communities who might be impacted by your visualization?  
   Individuals that are interested in information presented in the visualization.
+    > 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
     
     > What ‘underwater labour’ contributed to your final data visualization product?
